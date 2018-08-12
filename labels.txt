@@ -1,6 +1,6 @@
-Angry
-Fear
-Happy
-Sad
-Surprise
-Neutral
+Angry lion
+Fears me
+Happy day
+Sad demise
+Surprise party
+Neutral as usual
